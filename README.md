@@ -42,9 +42,15 @@
 
 ## Top Languages & Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahiuthra17-cpu\&layout=compact\&theme=tokyonight)
+<p align="left corner">
 
-☕ Java • 🐍 Python • 🗄️ SQL • 🌐 HTML • 🎨 CSS3  • 🔧 Git & GitHub  • 💻 Full-Stack Development
+*Java
+*Python
+*SQL
+*HTML
+*CSS
+*JavaScript(learning)
+*Full Stack Development
 
 ---
 

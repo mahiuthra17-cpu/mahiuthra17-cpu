@@ -44,7 +44,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahiuthra17-cpu\&layout=compact\&theme=tokyonight)
 
-☕ Java • 🐍 Python • 🗄️ SQL • 🌐 HTML5 • 🎨 CSS3 • 📚 DSA • 🔧 Git & GitHub • ☁️ Cloud Computing • 💻 Full-Stack Development
+☕ Java • 🐍 Python • 🗄️ SQL • 🌐 HTML • 🎨 CSS3  • 🔧 Git & GitHub  • 💻 Full-Stack Development
 
 ---
 
